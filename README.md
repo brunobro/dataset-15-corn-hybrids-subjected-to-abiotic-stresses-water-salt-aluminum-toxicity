@@ -18,3 +18,5 @@ Maize (Zea mays L.) is one of the world's main cereal crops, being widely used f
 * 3 Pantanal Editora, Nova Xavantina, MT, Brazil.
 * 4 State University of Maranhão (UEMA), Balsas, MA, Brazil.
 * a Correspondence: steiner@uems.br; bruno@editorapantanal.com.br
+
+<img src="boxplot.png">
